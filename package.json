@@ -13,6 +13,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
     "@types/faker": "^6.6.9",
     "@types/jest": "^29.5.1",
     "@types/node": "^18.16.3",
